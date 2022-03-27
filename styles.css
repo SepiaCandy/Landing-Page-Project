@@ -128,3 +128,21 @@ h2 {
     
     
 }
+
+.quote {
+    text-align: left;
+ display: flex;
+justify-content: center;
+align-items: center;
+    align-self: stretch;
+    
+}
+
+.quote p {
+    width: 1000px;
+    
+}
+
+.qmargin {
+    margin: 100px;
+}
