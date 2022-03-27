@@ -163,5 +163,11 @@ margin-bottom: 50px;
     border-radius: 5px;
     border-color: #e5e7eb;
     border: solid;
-    
+}
+
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 70px;
 }
