@@ -31,7 +31,7 @@ body {
     
 }
 
-img {
+.head-frame img {
     background-color: grey;
     height: 200px;
     width: 400px;
@@ -95,4 +95,36 @@ button {
     width: 90px;
     height: 30px;
     border: 0px;
+}
+
+h2 {
+    padding: 20px;
+    text-align: center;
+}
+
+.illustration {
+    display: flex;
+    flex-direction: column;
+    width: 150px;
+    margin-bottom: 100px;
+    margin-right: 40px;
+    margin-left: 40px;
+    text-align: center;
+    align-items: center;   
+}
+
+.illustration img {
+    border: solid;
+    border-radius: 10px;
+    border-color: #3882f6;
+    width: 180px;
+    height: 180px;
+}
+
+.infoframe {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    
 }
